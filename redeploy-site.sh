@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/scripts/project-flask-flamingos
+cd ~/project-flask-flamingos
 
 git fetch && git reset origin/main --hard
 
